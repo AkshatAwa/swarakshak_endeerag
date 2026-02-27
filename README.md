@@ -161,7 +161,7 @@ This project is for educational and research purposes and does not constitute le
 
 ---
 
-👨‍💻 Author
+Author
 
 Akshat Awasthi  
 AI/ML Engineer | Legal AI Systems | Vector-Based Architectures
